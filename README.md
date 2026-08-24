@@ -1,2 +1,6 @@
 # Online--Course-Reservation-System
-An Online Course Reservation System allows users to view, select, and reserve courses online easily and efficiently.
+This project is created for academic demonstration purpose only
+Software Configuration Management using GitHub.
+Student Name: <Anshika>
+Roll Number: <25B81A6669>
+Class: <CSM-B>
